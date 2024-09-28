@@ -1,4 +1,4 @@
-**Tópicos
+**Tópicos**
 
 Utilizar o método keys, get e items do tipo dicionário;
 Alinhar decisões com o cliente;
