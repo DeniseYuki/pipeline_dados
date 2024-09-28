@@ -1,4 +1,5 @@
-Tópicos
+**Tópicos
+
 Utilizar o método keys, get e items do tipo dicionário;
 Alinhar decisões com o cliente;
 Combinar o for com as funções do dicionário renomear as colunas;
